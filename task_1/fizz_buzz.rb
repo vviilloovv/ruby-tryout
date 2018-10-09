@@ -15,10 +15,10 @@ end
 print '数字を入力してください : '
 input = gets.chomp
 
-# 1以上の自然数が入力された場合FizzBuzz実行
+# 自然数が入力された場合FizzBuzz実行
 if input =~ /^[1-9]\d*$/
-  fizz_buzz_array = [*1..input.to_i].map { |n| fizz_buzz(n) }
+  fizz_buzz_array = (1..input.to_i).map { |n| fizz_buzz(n) }
   puts fizz_buzz_array.join(', ')
 else
-  puts '1以上の半角整数のみ入力してください'
+  puts '半角自然数のみ入力してください'
 end
