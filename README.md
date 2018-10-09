@@ -8,13 +8,13 @@ OS : macOS High Sierra 10.13.6
 Rubyバージョン　: 2.5.1
 
 ## 目次
-- [課題1　FizzBuzz](#課題1_FizzBuzz)
+- [課題1　FizzBuzz](#課題1_fizzbuzz)
 - [課題2　文字列ハッシュ](#課題2_文字列ハッシュ)
 - [課題3　じゃんけん](#課題3_じゃんけん)
 - [課題4　再帰](#課題4_再帰)
 - [課題5　アルゴリズム](#課題5_アルゴリズム)
-- [課題6　Hi&Low](#課題6_Hi&Low)
-- [課題7　Hit&Blow](#課題7_Hit&Blow)
+- [課題6　Hi&Low](#課題6_hilow)
+- [課題7　Hit&Blow](#課題7_hitblow)
 - [課題8　ハッシュ内変換](#課題8_ハッシュ内変換)
 
 ### 課題1_FizzBuzz
